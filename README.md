@@ -1,1 +1,1 @@
-# Diana-Baghdasaryan-QA-works
+# Manual testing works
